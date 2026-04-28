@@ -1,0 +1,17 @@
+node_modules
+.next
+.vercel
+.env
+.env.local
+pnpm-lock.yaml
+yarn.lock
+package-lock.json
+coverage
+dist
+*.log
+*.zip
+*.csv
+*.tmp
+/.turbo
+/tmp
+/prisma/dev.db
